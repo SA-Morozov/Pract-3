@@ -1,0 +1,3 @@
+ServerIp=127.0.0.1
+TcpPort=9000
+UdpPort=9001

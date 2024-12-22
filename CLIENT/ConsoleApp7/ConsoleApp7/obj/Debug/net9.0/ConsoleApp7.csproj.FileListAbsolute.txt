@@ -1,0 +1,14 @@
+C:\Users\SEMENMOROZ\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net9.0\ConsoleApp7.exe
+C:\Users\SEMENMOROZ\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net9.0\ConsoleApp7.deps.json
+C:\Users\SEMENMOROZ\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net9.0\ConsoleApp7.runtimeconfig.json
+C:\Users\SEMENMOROZ\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net9.0\ConsoleApp7.dll
+C:\Users\SEMENMOROZ\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net9.0\ConsoleApp7.pdb
+C:\Users\SEMENMOROZ\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net9.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEMENMOROZ\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net9.0\ConsoleApp7.AssemblyInfoInputs.cache
+C:\Users\SEMENMOROZ\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net9.0\ConsoleApp7.AssemblyInfo.cs
+C:\Users\SEMENMOROZ\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net9.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\SEMENMOROZ\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net9.0\ConsoleApp7.dll
+C:\Users\SEMENMOROZ\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net9.0\refint\ConsoleApp7.dll
+C:\Users\SEMENMOROZ\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net9.0\ConsoleApp7.pdb
+C:\Users\SEMENMOROZ\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net9.0\ConsoleApp7.genruntimeconfig.cache
+C:\Users\SEMENMOROZ\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net9.0\ref\ConsoleApp7.dll

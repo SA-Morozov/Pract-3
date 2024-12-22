@@ -1,0 +1,57 @@
+2024-12-22 02:40:34 - Starting chat server on 127.0.0.1:9000 (UDP: 9001)
+2024-12-22 02:40:34 - TCP server started.
+2024-12-22 02:40:34 - UDP server started on port 9001.
+2024-12-22 02:40:43 - vi connected.
+2024-12-22 02:40:45 - Error with client vi: Unable to read data from the transport connection: Удаленный хост принудительно разорвал существующее подключение..
+2024-12-22 02:40:45 - vi disconnected.
+2024-12-22 02:41:21 - Error with client : Unable to read data from the transport connection: Удаленный хост принудительно разорвал существующее подключение..
+2024-12-22 02:42:12 - Starting chat server on 127.0.0.1:9000 (UDP: 9001)
+2024-12-22 02:42:12 - TCP server started.
+2024-12-22 02:42:12 - UDP server started on port 9001.
+2024-12-22 02:42:16 - vi connected.
+2024-12-22 02:44:42 - Error with client vi: Unable to read data from the transport connection: Удаленный хост принудительно разорвал существующее подключение..
+2024-12-22 02:44:42 - vi disconnected.
+2024-12-22 02:44:50 - мш connected.
+2024-12-22 02:45:22 - Error with client мш: Unable to read data from the transport connection: Удаленный хост принудительно разорвал существующее подключение..
+2024-12-22 02:45:22 - мш disconnected.
+2024-12-22 02:45:27 - vi connected.
+2024-12-22 02:46:01 - Error with client vi: Unable to read data from the transport connection: Удаленный хост принудительно разорвал существующее подключение..
+2024-12-22 02:46:01 - vi disconnected.
+2024-12-22 02:46:05 - мш connected.
+2024-12-22 02:47:51 - Starting chat server on 127.0.0.1:9000 (UDP: 9001)
+2024-12-22 02:47:51 - TCP server started.
+2024-12-22 02:47:51 - UDP server started on port 9001.
+2024-12-22 02:47:56 - мш connected.
+2024-12-22 02:48:18 - Error with client мш: Unable to read data from the transport connection: Удаленный хост принудительно разорвал существующее подключение..
+2024-12-22 02:48:18 - мш disconnected.
+2024-12-22 02:48:37 - vi connected.
+2024-12-22 02:50:26 - Starting chat server on 127.0.0.1:9000 (UDP: 9001)
+2024-12-22 02:50:26 - TCP server started.
+2024-12-22 02:50:26 - UDP server started on port 9001.
+2024-12-22 02:50:32 - vi connected.
+2024-12-22 02:51:00 - vi disconnected.
+2024-12-22 02:51:09 - di connected.
+2024-12-22 02:51:42 - Error with client di: Unable to read data from the transport connection: Удаленный хост принудительно разорвал существующее подключение..
+2024-12-22 02:51:42 - di disconnected.
+2024-12-22 02:51:50 - ек connected.
+2024-12-22 02:52:08 - Error with client vi: Unable to read data from the transport connection: Удаленный хост принудительно разорвал существующее подключение..
+2024-12-22 02:52:16 - vi connected.
+2024-12-22 02:52:54 - Error with client vi: Unable to read data from the transport connection: Удаленный хост принудительно разорвал существующее подключение..
+2024-12-22 02:52:54 - vi disconnected.
+2024-12-22 02:52:56 - Error with client ек: Unable to read data from the transport connection: Удаленный хост принудительно разорвал существующее подключение..
+2024-12-22 02:52:56 - ек disconnected.
+2024-12-22 02:53:34 - Starting chat server on 127.0.0.1:9000 (UDP: 9001)
+2024-12-22 02:53:34 - TCP server started.
+2024-12-22 02:53:34 - UDP server started on port 9001.
+2024-12-22 02:53:40 - vi connected.
+2024-12-22 02:54:09 - vi disconnected.
+2024-12-22 02:54:15 - daw connected.
+2024-12-22 02:54:22 - Error with client vi: Unable to read data from the transport connection: Удаленный хост принудительно разорвал существующее подключение..
+2024-12-22 02:54:25 - vi connected.
+2024-12-22 02:54:58 - не connected.
+2024-12-22 02:55:10 - Error with client не: Unable to read data from the transport connection: Удаленный хост принудительно разорвал существующее подключение..
+2024-12-22 02:55:10 - не disconnected.
+2024-12-22 02:55:10 - Error with client vi: Unable to read data from the transport connection: Удаленный хост принудительно разорвал существующее подключение..
+2024-12-22 02:55:10 - vi disconnected.
+2024-12-22 02:55:12 - Error with client daw: Unable to read data from the transport connection: Удаленный хост принудительно разорвал существующее подключение..
+2024-12-22 02:55:12 - daw disconnected.
